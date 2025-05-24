@@ -14,11 +14,10 @@ A FastAPI backend service that provides intelligent workspace recommendations ba
 - Policy-aware filtering
 - Modular architecture with clean separation of concerns
 
-## 🚀 Quick Demo
+## Quick Demo
 
 **Watch a short demo of the system in action:**
-
-<video src="https://github.com/offline-pixel/occupancy-planner-ai/raw/main/frontend.mov" width="800" controls autoplay loop muted></video>
+![Occupancy Planner Demo](frontend.gif)
 
 **Note:** The video may take a moment to load depending on your internet connection.
 
