@@ -1,0 +1,59 @@
+# Python/FastAPI Backend
+backend/venv/
+backend/.venv/
+backend/env/
+backend/ENV/
+backend/.env
+backend/.env.local
+backend/.env*.local
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.python-version
+backend/.pytest_cache/
+backend/instance/
+backend/.coverage
+backend/htmlcov/
+backend/.mypy_cache/
+backend/.dmypy.json
+backend/dmypy.json
+backend/.ipynb_checkpoints
+backend/.ruff_cache/
+backend/.vscode/
+
+# Frontend (React/Vue/Node)
+frontend/node_modules/
+# frontend/.env
+# frontend/.env.local
+# frontend/.env*.local
+frontend/dist/
+frontend/build/
+frontend/.cache/
+frontend/.vscode/
+frontend/.svelte-kit/
+frontend/.DS_Store
+frontend/.eslintcache
+frontend/coverage/
+frontend/.next/
+frontend/.nuxt/
+frontend/.output/
+frontend/.parcel-cache/
+frontend/.serverless/
+frontend/.vercel/
+frontend/.vuepress/dist
+frontend/jspm_packages/
+frontend/out/
+frontend/temp/
+
+# Common IDE/Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System Files
+.DS_Store
+Thumbs.db
